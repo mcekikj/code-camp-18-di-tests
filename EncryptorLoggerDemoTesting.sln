@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptorLoggerDemoTesting", "EncryptorLoggerDemoTesting\EncryptorLoggerDemoTesting.csproj", "{797C24D4-E1E3-423F-839E-214D28A4C1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptorLoggerDemoTesting.Tests", "EncryptorLoggerDemoTesting.Tests\EncryptorLoggerDemoTesting.Tests.csproj", "{B1E26DDC-7EFC-452F-B91B-AF3936F3390D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797C24D4-E1E3-423F-839E-214D28A4C1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C24D4-E1E3-423F-839E-214D28A4C1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C24D4-E1E3-423F-839E-214D28A4C1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C24D4-E1E3-423F-839E-214D28A4C1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E26DDC-7EFC-452F-B91B-AF3936F3390D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E26DDC-7EFC-452F-B91B-AF3936F3390D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E26DDC-7EFC-452F-B91B-AF3936F3390D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E26DDC-7EFC-452F-B91B-AF3936F3390D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1072EDD-BA18-4783-A0AC-D75FE1C9AEFF}
+	EndGlobalSection
+EndGlobal
